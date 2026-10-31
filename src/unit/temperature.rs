@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Farhan Kurnia Pratama
+//
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 use actix_web::{HttpResponse, get, web};
 use serde::{Deserialize, Serialize};
 
